@@ -1,5 +1,5 @@
 ### Welcome! 👋  
-I'm an IT Project Manager who believes that understanding code is essential for leading successful technology projects. While my primary focus is on delivering value, managing teams, and ensuring projects run smoothly, I also enjoy rolling up my sleeves and writing some Python when needed.
+I'm an IT Project Manager who believes that understanding code and keeping up with continuous learning is essential for leading successful technology projects. While my primary focus is on delivering value, managing teams, and ensuring projects run smoothly, I also enjoy rolling up my sleeves and writing some Python when needed.
 
 ### Why Code as a Project Manager?
 **Empathy:** Understanding the challenges developers face.
